@@ -1,4 +1,4 @@
-var abecedario = "abcdefghijklmnopqrstuvwxyz";
+const abecedario = "abcdefghijklmnopqrstuvwxyz";
 
 function myFunction(str) {
   return abecedario.split("").every(function (item) {
